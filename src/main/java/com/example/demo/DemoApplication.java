@@ -11,5 +11,4 @@ public class DemoApplication {
 		System.out.println("branch1");
 		SpringApplication.run(DemoApplication.class, args);
 	}
-
 }
